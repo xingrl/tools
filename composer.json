@@ -1,0 +1,21 @@
+{
+    "name": "xingrl/tools",
+    "description": "常用工具",
+    "type": "project",
+    "require": {
+        "php": ">=7.0",
+        "phpunit/phpunit": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingwenge",
+            "email": "470703808@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "algorithm\\": "algorithm/"
+        }
+    }
+}
