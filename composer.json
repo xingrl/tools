@@ -17,5 +17,10 @@
         "psr-4": {
             "algorithm\\": "algorithm/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests/"
+        }
     }
 }
