@@ -1,5 +1,5 @@
 <?php
-namespace algorithm\sort;
+namespace algorithm\sorting;
 
 /**
  * 直接插入排序(类比抓牌)

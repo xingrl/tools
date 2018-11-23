@@ -1,7 +1,7 @@
 <?php
-namespace tests\algorithm\sort;
+namespace tests\algorithm\sorting;
 
-use algorithm\sort\QuickSort;
+use algorithm\sorting\QuickSort;
 use PHPUnit\Framework\TestCase;
 
 class QuickSortTest extends TestCase

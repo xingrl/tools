@@ -1,7 +1,7 @@
 <?php
-namespace tests\algorithm\sort;
+namespace tests\algorithm\sorting;
 
-use algorithm\sort\BubbleSort;
+use algorithm\sorting\BubbleSort;
 
 require_once __DIR__. '/../../init.php';
 

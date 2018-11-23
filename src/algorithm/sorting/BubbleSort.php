@@ -1,5 +1,5 @@
 <?php
-namespace algorithm\sort;
+namespace algorithm\sorting;
 
 /**
  * 冒泡排序 PHP实现

@@ -1,5 +1,5 @@
 <?php
-namespace algorithm\sort;
+namespace algorithm\sorting;
 
 /**
  * 快速排序
