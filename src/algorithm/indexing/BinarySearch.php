@@ -4,6 +4,8 @@ namespace algorithm\indexing;
 class BinarySearch {
     /**
      * 二分查找
+     * 思想：取中间位置的值比对；小于则移动左边位置到中间位置右侧；
+     *
      * @param array $arr 从小到大排好序的数组
      * @param $searchValue 要查找的值
      *
